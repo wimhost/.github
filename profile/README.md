@@ -1,7 +1,7 @@
-Pages hosted here will be available at https://app.wim.ae/
+Pages hosted here will be available at https://app.elementz.live/
 
 Example:
 
 Repo name: hello
 
-Address: https://app.wim.ae/hello/
+Address: https://app.elementz.live/hello/
